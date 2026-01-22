@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "CRTHLKVC56.com.savansoni.MoviesApp",
-        "paths": [ "/open/*" ]
+        "paths": [ "/open/*", "/movie/*" ]
       }
     ]
   }
